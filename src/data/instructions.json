@@ -1,0 +1,9 @@
+{
+  "$schema": "./schema.json",
+  "data": [
+    {
+      "name": "mov",
+      "description": "copies data from one location to another, `(1) r/m = r; (2) r = r/m;`"
+    }
+  ]
+}
